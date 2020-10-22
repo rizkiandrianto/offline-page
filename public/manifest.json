@@ -1,0 +1,25 @@
+{
+  "short_name": "Hello World",
+  "name": "Hello World: Offline Page",
+  "theme_color": "#ff6c6c",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/images/icon/72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/icon/144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "splash_pages": null
+}
